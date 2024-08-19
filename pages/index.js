@@ -16,7 +16,7 @@ function Home(){
             <li><a href="https://youtu.be/zg4OOqw8BoU">Carta aberta para o vazio (e pra quem se perdeu nele)</a></li>
             <li><a href="https://youtu.be/RwT-j75J6Mk">Você conhece a si mesmo? | Uma investigação filosófica</a></li>
         </ul>
-        <h2>As consolações da Filosofia - Alain de Bottom</h2>
+        <h2>As consolações da Filosofia - Alain de Botton</h2>
         <p>Pronto, agora indo pros livros mesmo, esse é aquele que tu já me viu lendo lá na recepção ;)<br/>
         Ele é um livro com uma leitura bem gostosa e fluída. A ideia dele é apresentar diversos conceitos da filosofia (e de filósofos difetentes) pra problemas normais que nós acabamos tendo, como se importar com a opnião alheia, valorizar demais o dinheiro, se sentir inadequado e frustrado, coração quebrado...<br/>
         Enfim, ele se destaca por trazer tudo isso de uma forma muito prática e com ideias realmente muito boas pra td mundo, com vc sempre conseguindo voltar nos capítulos pra relembrar de algumas coisas. Já foi top sale e eu pra qualquer um</p>
@@ -35,7 +35,7 @@ function Home(){
             width="334px"
             height="708px"
         />
-        <h2>Se você é tão esperto, por que não é feliz? - Raj Raghnuthan</h2>
+        <h2>Se você é tão esperto, por que não é feliz? - Raj Raghunathan</h2>
         <p>Esse eu comecei a ler no início desse ano. Lembro de ter gostado bastante da forma que o autor expressava suas ideias e ajudava legal principalmente quando tu fica muito tempo pensando demais nas coisas<br/>Sei que tu se interessou por esse livro, e posso afirmar que ele é bom, só não lembro de muitas coisas de cabeça kk</p>
         <Image
             src={felicidade}
